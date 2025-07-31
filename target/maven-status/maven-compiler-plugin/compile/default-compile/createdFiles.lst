@@ -1,0 +1,8 @@
+com\ngo\backend\servlet\AdminApproveServlet.class
+com\ngo\backend\servlet\PostRequirement.class
+com\ngo\backend\servlet\LoginServlet.class
+com\ngo\backend\db\DBConnection.class
+com\ngo\backend\servlet\DonateServlet.class
+com\mycompany\ngo\JakartaRestConfiguration.class
+com\ngo\backend\servlet\RegisterServlet.class
+com\mycompany\ngo\resources\JakartaEE11Resource.class
